@@ -1,0 +1,35 @@
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="semiphp._Default" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+
+    <div class="jumbotron">
+        <h1>What's up?</h1>
+        
+        
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <h2>프로필</h2>
+       
+            <p>
+                <a class="btn btn-default" href="https://localhost:44325/About">보기 &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h2>학력</h2>
+        
+            <p>
+                <a class="btn btn-default" href="https://localhost:44325/Contact">보러가기 &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <h2>스펙?</h2>
+        
+            <p>
+                <a class="btn btn-default" href="https://localhost:44325/Index">그냥 보기 &raquo;</a>
+            </p>
+        </div>
+    </div>
+
+</asp:Content>

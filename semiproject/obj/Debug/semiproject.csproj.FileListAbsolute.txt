@@ -1,0 +1,13 @@
+C:\Users\KOSTA\source\repos\semiproject\bin\Debug\semiproject.exe.config
+C:\Users\KOSTA\source\repos\semiproject\bin\Debug\semiproject.exe
+C:\Users\KOSTA\source\repos\semiproject\bin\Debug\semiproject.pdb
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.Main.resources
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.exe
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.pdb
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.OD.resources
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.card.resources
+C:\Users\KOSTA\source\repos\semiproject\obj\Debug\semiproject.cash.resources

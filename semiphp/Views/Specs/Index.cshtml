@@ -1,0 +1,43 @@
+﻿@model IEnumerable<semiphp.Models.Spec>
+
+
+<h2>Spec</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.fGetDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fInstitution)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.fGetDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fInstitution)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.fID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.fID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.fID })
+            </td>
+        </tr>
+    }
+
+</table>
